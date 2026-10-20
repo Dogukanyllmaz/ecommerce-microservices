@@ -1,0 +1,24 @@
+<Solution>
+  <Folder Name="/AuthApi/">
+    <Project Path="AuthApi/AuthenticationApi.Application/AuthenticationApi.Application.csproj" />
+    <Project Path="AuthApi/AuthenticationApi.Domain/AuthenticationApi.Domain.csproj" />
+    <Project Path="AuthApi/AuthenticationApi.Infrastructure/AuthenticationApi.Infrastructure.csproj" />
+    <Project Path="AuthApi/AuthenticationApi.Presentation/AuthenticationApi.Presentation.csproj" />
+  </Folder>
+  <Folder Name="/GatewayApi/">
+    <Project Path="GatewayApi/ApiGateway.Presentation/ApiGateway.Presentation.csproj" />
+  </Folder>
+  <Folder Name="/OrderApi/">
+    <Project Path="OrderApi/OrderApi.Application/OrderApi.Application.csproj" />
+    <Project Path="OrderApi/OrderApi.Domain/OrderApi.Domain.csproj" />
+    <Project Path="OrderApi/OrderApi.Infrastructure/OrderApi.Infrastructure.csproj" />
+    <Project Path="OrderApi/OrderApi.Presentation/OrderApi.Presentation.csproj" />
+  </Folder>
+  <Folder Name="/ProductApi/">
+    <Project Path="ProductApi/ProdcutApi.Presentation/ProdcutApi.Presentation.csproj" />
+    <Project Path="ProductApi/ProductApi.Application/ProductApi.Application.csproj" />
+    <Project Path="ProductApi/ProductApi.Domain/ProductApi.Domain.csproj" />
+    <Project Path="ProductApi/ProductApi.Infrastructure/ProductApi.Infrastructure.csproj" />
+  </Folder>
+  <Project Path="eCommerceSharedLibrary/eCommerceSharedLibrary.csproj" />
+</Solution>
